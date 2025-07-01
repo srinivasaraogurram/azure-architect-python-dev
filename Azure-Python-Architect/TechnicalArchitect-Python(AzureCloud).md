@@ -65,3 +65,6 @@ A hands-on **Technical Architect** with deep expertise in Python-based web appli
 - Excellent communication, leadership, and stakeholder management skills
 
 ---
+
+Preperation Guide
+https://claude.ai/public/artifacts/a8c65081-c618-4d01-8bb3-658ca2999dba
